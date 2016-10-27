@@ -1,0 +1,23 @@
+Start testing: Oct 26 15:12 EDT
+----------------------------------------------------------
+1/1 Testing: qa_myadder
+1/1 Test: qa_myadder
+Command: "/bin/sh" "/home/student/ray/gr-sdrclass/build/python/qa_myadder_test.sh"
+Directory: /home/student/ray/gr-sdrclass/build/python
+"qa_myadder" start time: Oct 26 15:12 EDT
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"qa_myadder" end time: Oct 26 15:12 EDT
+"qa_myadder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 26 15:12 EDT
