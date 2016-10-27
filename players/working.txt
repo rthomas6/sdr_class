@@ -1,0 +1,2 @@
+./digital_tx.py -s localhost --red -f 913e6 -m dqpsk -r 2.5M -g 0 -a "bladerf=0" --bandwidth=3M
+./digital_rx.py -s localhost --red -f 913e6 -m dqpsk -r 2.5M -g 20 -a "bladerf=1" -v --bandwidth=3M
